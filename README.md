@@ -8,6 +8,13 @@ I build end-to-end analytics systems for financial data — from synthetic data 
 
 ## Featured Projects
 
+### [AI-btc-indicator](https://github.com/annkka3/BTC_indicator)
+End-to-end ML system for Bitcoin price forecasting across 1h, 4h, and 24h horizons. Combines OHLCV data, perpetuals (funding rate, OI, liquidations), DXY, and ETF flows into a feature pipeline that predicts log-residual deviation from trend. Delivered as a Telegram bot with explainable report cards, regime detection, and divergence signals. Architecture: Clean Architecture with FastAPI, RabbitMQ workers, SQLite (WAL), Docker Compose, and walk-forward validation with leakage guards.
+
+`Python` `FastAPI` `CatBoost` `LightGBM` `Docker` `RabbitMQ` `SQLite` `Telegram Bot API`
+
+---
+
 ### [trader-performance-analytics](https://github.com/annkka3/trader-performance-analytics)
 Quant analytics case study for a challenge-based prop trading platform. Builds an interpretable multi-dimensional trader quality framework — expectancy, drawdown control, discipline, consistency, regime resilience — and shows why win rate alone is a poor quality signal.
 
