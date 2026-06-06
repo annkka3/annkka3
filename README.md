@@ -15,6 +15,16 @@ Freelance dashboards & reporting
 
 ---
 
+**Portfolio for clients:**
+
+Excel/Google Sheets dashboards;
+SQL reports;
+Python data cleaning;
+Trading journals.
+
+
+---
+
 ## Featured Projects
 
 ### [AI-btc-indicator](https://github.com/annkka3/BTC_indicator)
