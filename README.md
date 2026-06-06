@@ -5,6 +5,15 @@
 I build end-to-end analytics systems for financial data — from synthetic data generation and SQL pipelines to feature engineering, scoring frameworks, and visual reporting. My recent work focuses on prop trading platform analytics: trader quality, funnel economics, and anomaly detection.
 
 ---
+**Open to roles:**
+
+Data Analyst;
+Product Analyst;
+Risk/Fraud Analyst;
+Trading Data Analyst;
+Freelance dashboards & reporting
+
+---
 
 ## Featured Projects
 
